@@ -1,0 +1,14 @@
+Pages/Registration.java
+ Pages.Registration
+TestRunner/RegistrationRunner.java
+ TestRunner.RegistrationRunner
+Utils/Utils.java
+ Utils.Utils
+TestRunner/PlaceOrderTestRunner.java
+ TestRunner.PlaceOrderTestRunner
+Pages/PlaceOrder.java
+ Pages.PlaceOrder
+SetUp/Setup.java
+ SetUp.Setup
+Utils/TimeWait.java
+ Utils.TimeWait

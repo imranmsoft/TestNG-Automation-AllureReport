@@ -1,0 +1,15 @@
+
+<suite thread-count="1" verbose="1" name="QAOPS Automation">
+    <test name="Registration">
+       <classes>
+           <class name="TestRunner.RegistrationRunner"/>
+       </classes>
+
+    </test> <!-- Test -->
+    <test name="Place Order">
+        <classes>
+            <class name="TestRunner.PlaceOrderTestRunner"/>
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
